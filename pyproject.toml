@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "django-docker-poetry"
+version = "0.1.0"
+description = ""
+authors = ["ridwanray <alabarise@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "4.0.6"
+djangorestframework = "3.13.1"
+django-cors-headers = "3.13.0"
+drf-spectacular = "0.22.1"
+python-decouple = "3.6"
+pytest-django = "4.5.2"
+pytest-factoryboy = "2.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
