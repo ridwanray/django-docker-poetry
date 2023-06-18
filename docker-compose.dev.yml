@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: docker/dev/Dockerfile
     image: ray-blog-api
-    command: python manage.py runserver 0.0.0.0:8000
+    command: poetry run python manage.py runserver 0.0.0.0:8000
     volumes:
       - .:/app
     ports:
