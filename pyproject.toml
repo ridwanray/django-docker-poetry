@@ -5,6 +5,7 @@ description = ""
 authors = ["ridwanray <alabarise@gmail.com>"]
 readme = "README.md"
 
+
 [tool.poetry.dependencies]
 python = "^3.10"
 django = "4.0.6"
