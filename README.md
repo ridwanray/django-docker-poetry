@@ -33,3 +33,4 @@ Access the docs on:
 http://localhost:8000/api/v1/doc
 ```
 
+![Screenshot](screenshot.png)
