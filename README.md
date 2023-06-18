@@ -1,7 +1,5 @@
 # Dockerised Django project with Poetry
-Your software applications need monitoring. <br>
-This codebase showcase how to use poetry in a dockerise Django project
-
+Using Poetry and Docker in a django project. <br>
 This article has complete guide:  [check here]()
 
 # Setup & running locally
