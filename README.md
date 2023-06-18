@@ -21,12 +21,6 @@ Run descriptive tests in the container using:
 docker exec -it <container_name> poetry run pytest -rP -vv
 ```
 
-
-Run the server using:
-```
-python manage.py runserver
-```
-
 Access the docs on:
 
 ```
