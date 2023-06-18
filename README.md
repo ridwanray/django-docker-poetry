@@ -54,7 +54,3 @@ Run the server using:
 python manage.py runserver
 ```
 
-![Screenshot](screenshot1.png) <br><br>
-![Screenshot](screenshot2.png) <br><br>
-![Screenshot](screenshot3.png) <br><br>
-![Screenshot](screenshot3.png)
